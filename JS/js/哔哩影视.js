@@ -19,7 +19,7 @@
 var rule = {
     title:'哔哩影视',
     host:'https://api.bilibili.com',
-    url:'/fyclass-fypage&vmid=$vmid',
+    url:'/fyclass-fypage&vmid=377992175',
     detailUrl:'/pgc/view/web/season?season_id=fyid',
     filter_url:'fl={{fl}}',
     vmid获取教程:'登录后访问https://api.bilibili.com/x/web-interface/nav,搜索mid就是,cookie需要 bili_jct,DedeUserID,SESSDATA参数',
