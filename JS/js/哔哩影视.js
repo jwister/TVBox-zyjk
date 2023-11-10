@@ -30,7 +30,7 @@
   headers:{
       'User-Agent':'PC_UA',
       "Referer": "https://www.bilibili.com",
-      "Cookie":"$bili_cookie"
+      "Cookie":"buvid3=B0AE30B4-DCF7-ED7F-74A6-DFFC997A9E3656586infoc; b_nut=1688438656; _uuid=34757E38-8621-7EA5-1E35-D5D6E10426E6C57452infoc; nostalgia_conf=-1; CURRENT_FNVAL=4048; DedeUserID=377992175; DedeUserID__ckMd5=ad46019217ed1b37; rpdid=|(u)~J~R~lmY0J'uY))lJY~uJ; CURRENT_QUALITY=120; buvid4=C93C4873-F102-B3E2-5E8D-AE6A0A6E8D0F58080-023070410-AOc2%2FD4Q7%2B%2FTcoo%2BV5ut1w%3D%3D; hit-new-style-dyn=1; hit-dyn-v2=1; FEED_LIVE_VERSION=V8; header_theme_version=CLOSE; home_feed_column=5; PVID=1; LIVE_BUVID=AUTO4116910480845781; bp_video_offset_377992175=851200666277773315; enable_web_push=DISABLE; fingerprint=8920e6978927f82fffa49e5b7a5247ba; buvid_fp_plain=undefined; buvid_fp=be7892fc854b5ef8f022d5d2d30bca00; innersign=0; b_lsid=6C981B7D_18BB81F7284; SESSDATA=77c3d3d1%2C1715153152%2Cddbef%2Ab2CjBOZsbYN_vmM1DNM3nYa21CvJqmiFn6JFjohs8MV4DkNN7g_KN-VzEg71bRviGEiGESVmZKLTZYNTVLNUJFVWFvN0JKZloxanBDUUZqMGZHY3dLeFZ1UEZrTnBJVFZrMFZ4SjFwTi1TUUlFUVFUVk1lRW9idXZ0UDM4amZxdTcxZlBCQkMtRkZnIIEC; bili_jct=7e6d61854a23b26c9cde0ec7b8898c23; sid=8nhz9g4o; browser_resolution=1536-180"
   },
   timeout:5000,
   class_name:'番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
