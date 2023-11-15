@@ -1,0 +1,6 @@
+    
+影视配置
+{"key":"趣盘搜","name":"趣盘搜┃🐱","type":3,"api":"./funletu.js","searchable":1,"changeable":1, "ext": "夸克cookie,可http"}
+
+猫配置
+{"key":"funletu","name":"趣盘搜","type":3,"api":"./funletu.js","ext":"夸克cookie,可http"}
