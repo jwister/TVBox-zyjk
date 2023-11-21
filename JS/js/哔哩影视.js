@@ -30,7 +30,7 @@
   headers:{
       'User-Agent':'PC_UA',
       "Referer": "https://www.bilibili.com",
-      "Cookie":"$bili_cookie"
+      "Cookie":"buvid3=B0AE30B4-DCF7-ED7F-74A6-DFFC997A9E3656586infoc"
   },
   timeout:5000,
   class_name:'番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
