@@ -30,7 +30,7 @@
   headers:{
       'User-Agent':'PC_UA',
       "Referer": "https://www.bilibili.com",
-      "Cookie":"buvid3=B0AE30B4-DCF7-ED7F-74A6-DFFC997A9E3656586infoc"
+      "Cookie":"DedeUserID=377992175;DedeUserID__ckMd5=ad46019217ed1b37;SESSDATA=637e3048%2C1716108321%2C284a9%2Ab2CjA87AEq2qsQHdxtFdSY7R-CEfL7pTKzHKodLFTToioQbNjov4X8_xzlpBMwLzOum5gSVlpnRkFyTzcya2ZacW5ZandPQWRrV3RJNDVoOWJBVFN5c3pvS2Vxa2Y3eHhVUkc1WGhrdU5qWGtILWl6d0pIa3ZNclNOa1F2cDd2WXg5TXAxMVZCeW1RIIEC;bili_jct=3c6905da5caa3a3170c747900f9dbd08;"
   },
   timeout:5000,
   class_name:'番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
